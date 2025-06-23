@@ -2,9 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/HumanCognitive?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/HumanCognitive?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/nikuvi/HumanCognitive?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/nikuvi/HumanCognitive?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/nikuvi/HumanCognitive?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/nikuvi/HumanCognitive?style=for-the-badge) 
+![GitHub last commit](https://img.shields.io/github/last-commit/nikuvi/HumanCognitive?style=for-the-badge)
 
 > 
 
