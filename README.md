@@ -1,4 +1,4 @@
-<img width="678" height="227" alt="LOGO (1)" src="https://github.com/user-attachments/assets/92a8ec2e-0da4-488a-a057-151cdd276bc2" />
+<img width="1500" height="500" alt="LOGO (1)" src="https://github.com/user-attachments/assets/d64ee90d-b932-4a30-be28-7ae8bd5084e5" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/HumanCognitive?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/HumanCognitive?style=for-the-badge)
