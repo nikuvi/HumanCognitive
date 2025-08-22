@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="LOGO (1)" src="https://github.com/user-attachments/assets/d64ee90d-b932-4a30-be28-7ae8bd5084e5" />
+<img width="1500" height="353" alt="LOGO (1)" src="https://github.com/user-attachments/assets/de509a1b-e027-4b8a-abe6-011f72739d91" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/HumanCognitive?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/HumanCognitive?style=for-the-badge)
@@ -20,6 +20,12 @@
 
 ## 📁Archivos
 
+- **chart**: Carpeta que almacena los gráficos creados en python.
+- **csv_limpios**: Carpeta con archivos csv limpios.
+- **csv_originales**: Carpeta con archivos csv originales.
+- **img**: Carpeta con imágenes varias utilizadas en el proyecto.
+- **scripts**: Carpeta con archivos py utilizados en procesos ETL y EDA.
+- **DashboardHumanCognitive**: Archivo Power BI donde se encuentra el dashboard interactivo.
 - **EDA-Graficos.ipynb**: Archivo Jupyter Notebook que contiene el EDA exploratorio del proyecto.
-- **ETL.ipynb**: Archivo Jupyter Notebook que contiene el ETL del proyecto.
-- **human_cognitive_performance.csv**: Archivo .csv que contiene los datos originales.
+- **ETL.ipynb**: Archivo con el proceso ETL.
+
