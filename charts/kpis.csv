@@ -1,0 +1,15 @@
+KPI,Value
+cognitive_mean,58.172394874999995
+cognitive_std,23.058522151449154
+cognitive_p90,89.47
+cognitive_p10,27.2
+gender_performance,"{'Female': 58.220517394021456, 'Male': 58.1009117478211, 'Other': 58.44462431276726}"
+diet_performance,"{'Non-Vegetarian': 58.25899116408953, 'Vegan': 57.919412287382585, 'Vegetarian': 58.08280203844879}"
+exercise_performance,"{'High': 65.69650738488271, 'Low': 51.488335841484826, 'Medium': 61.04676805251641}"
+sleep_correlation,0.1505946677189427
+stress_correlation,-0.22763851488779047
+age_correlation,-0.005976342259102758
+prediction_accuracy,-inf
+prediction_r2,0.9847750284802795
+high_screen_impact,5.958927404515187
+high_stress_impact,7.341108173243377
