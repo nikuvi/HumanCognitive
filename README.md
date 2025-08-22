@@ -1,4 +1,4 @@
-# 👤 Human Cognitive
+<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/d24e3991-e280-42a6-9d52-c8ed6058b8bd" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/HumanCognitive?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/HumanCognitive?style=for-the-badge)
