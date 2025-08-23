@@ -29,4 +29,4 @@
 - **EDA-Graficos.ipynb**: Archivo Jupyter Notebook que contiene el EDA exploratorio del proyecto.
 - **ETL.ipynb**: Archivo con el proceso ETL.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikuvi&theme=rogue&custom_title=Actividad%20del%20Proyecto&hide_border=true)](https://github.com/nikuvi/HumanCognitive)
+
