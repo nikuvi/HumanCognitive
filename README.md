@@ -5,8 +5,9 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/nikuvi/HumanCognitive?style=for-the-badge) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nikuvi/HumanCognitive?style=for-the-badge)
 
+>
 > 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikuvi)](https://github.com/nikuvi/HumanCognitive)
 <!-- TechStack -->
 ## :space_invader: Herramientas
 
