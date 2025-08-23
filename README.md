@@ -7,7 +7,7 @@
 
 >
 > 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikuvi&theme=roguecustom_title=Actividad&del&Proyecto)](https://github.com/nikuvi/HumanCognitive)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikuvi&theme=rogue&custom_title=Actividad&20del&20Proyecto&hide_border=true)](https://github.com/nikuvi/HumanCognitive)
 <!-- TechStack -->
 ## :space_invader: Herramientas
 
