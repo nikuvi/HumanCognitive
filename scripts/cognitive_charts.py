@@ -9,8 +9,6 @@ from scipy import stats
 import warnings
 warnings.filterwarnings('ignore')
 
-df = dataset
-
 # Configuración de estilo
 plt.style.use('seaborn-v0_8')
 custom_colors = ['#f9afaf', '#414b3b', '#f4f4f4', '#232020']
